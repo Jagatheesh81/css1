@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Adayar Anandha Bhavan</title>
+</head>
+<body>
+    <div class="heading">
+        <h1 class="show">Adayaar Anandha Bhavan</h1>
+        <h2 class="show">South Indian / Chinese </h2>
+        <h3>Choose your cuisine</h3>
+    </div>
+    <div class="main">
+        <div class="first">
+            <h2>South Indian</h2>
+            <div class="firstimage">
+                <img class="image" src="https://rakskitchen.net/wp-content/uploads/2014/05/13948166777_609513109e_z.jpg" alt="Dosai">
+                <img class="image" src="https://www.indianhealthyrecipes.com/wp-content/uploads/2021/01/pongal-ven-pongal-500x375.jpg" alt="Pongal">
+                <img class="image" src="https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/poori-puri-recipe.jpg" alt="Poori">
+                <img class="image" src="https://madhurasrecipe.com/wp-content/uploads/2021/10/idli_premix_featured.jpg" alt="Idly">
+                <img class="image" src="https://static.toiimg.com/thumb/60781217.cms?imgsize=230260&width=800&height=800" alt="Sambar rice">
+                <img class="image" src="https://simmertoslimmer.com/wp-content/uploads/2023/04/Curd-rice-thayir-sadam.jpg" alt="Curd rice">
+            </div>
+        </div>
+        <div class="second">
+            <h2>Chinese</h2>
+            <div class="secondImage">
+                <img class="image" src="https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/fried-rice.jpg" alt="fried-rice">
+                <img class="image" src="https://www.myplantifulcooking.com/wp-content/uploads/2022/01/cabbage-manchurian-featured.jpg" alt="cabbage-manchurian-featured">
+                <img class="image" src="https://kristineskitchenblog.com/wp-content/uploads/2022/02/minestrone-soup-recipe-22.jpg" alt="Pasta">
+                <img class="image" src="https://www.cookwithmanali.com/wp-content/uploads/2021/08/Schezwan-Noodles-500x500.jpg" alt="Noodles">
+                <img class="image" src="https://www.thespruceeats.com/thmb/UnVh_-znw7ikMUciZIx5sNqBtTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/steamed-momos-wontons-1957616-hero-01-1c59e22bad0347daa8f0dfe12894bc3c.jpg" alt="Momos">
+                <img class="image" src="https://chineserecipesforall.com/images/uploads/recipes/vegetable-chow-mein-noodles-recipe-RecipeMain-Chinese-Recipes-For-All.jpg" alt="Hakka Noodles">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
